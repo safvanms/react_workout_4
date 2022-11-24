@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Poppins';
+  background-color: rgb(219, 223, 228)
+}
+
+.heading {
+  font-family: 'Montserrat';
+  font-size: 80px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+
+.page {
+  background-color: white;
+  width: 500px;
+  height: auto;
+  margin: 0 auto ;
+  border-radius: 9px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-style: solid;
+  border-color: white;
+  border-width: 6px;
+  margin-bottom: 50px;
+}
+
+.nav {
+  background-color: rgb(239, 91, 91);
+  border-radius: 9px 9px 0px 0px;
+  height: 50px;
+  /* margin: 0px 10px 0px 10px; */
+}
+
+.fas {
+  font-size: 22px;
+}
+
+.page-heading {
+  color: white;
+  text-align: center;
+  padding-top: 12px;
+  font-size: 13px;
+  font-weight: lighter;
+  margin: 0;
+}
+
+.spot-img {
+  max-width: 140px;
+  border-radius: 5px;
+  margin: 25px 15px 2px 25px;
+  float: left;
+}
+
+.fa {
+  color: red;
+  font-size: 11px;
+}
+
+.spot {
+  font-size: 11px;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.map--address {
+  font-size: 9px;
+}
+
+.spot-name {
+  font-weight: 900;
+  font-size: 25px;
+  margin: 0;
+}
+
+.tour-date {
+  margin: 10px 0px 0px 0px;
+}
+
+.description {
+  max-width: 470px;
+  font-size: 11px;
+
+}
+
+.stuffs {
+  padding-top: 36px;
+}
+
+.section {
+  min-height: 230px;  
+  
+}
